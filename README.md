@@ -46,9 +46,11 @@ Este dashboard está diseñado para analizar:
 
 ---
 
-## 📢 **Autor**
-Desarrollado por **Joanna Carrión** 🚀.
-Si tienes preguntas o sugerencias, puedes contactarme en [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/).
+## Autor
+**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
-📌 ¡Gracias por visitar este repositorio! No dudes en explorar y aportar feedback. 😊
+## Contacto
+Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
 
+## Contribuciones
+📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
