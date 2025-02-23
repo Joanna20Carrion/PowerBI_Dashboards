@@ -30,7 +30,7 @@ Este dashboard está diseñado para analizar:
 - **Ventas y descuentos:** Visualización de las ventas brutas, segmentación por país y categorías de descuentos.
 - **Unidades vendidas:** Distribución de ventas por productos y segmentación por regiones y tipos de clientes.
 
-🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWNlMzM1MjItOGNlYy00MmQwLWJjNDgtN2EwMTc4NmQ5MzU0IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
+🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTg0YTNmNTYtOTljYS00NWI0LTljMmYtOGUxNjVjOGI0ZjAxIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
 📸 **Capturas de pantalla:**
 ![Análisis Financiero 1](Proyecto_2/Parte_1.png)
