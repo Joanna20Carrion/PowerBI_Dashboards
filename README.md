@@ -16,7 +16,7 @@ Este dashboard está enfocado en dos aspectos:
 - **Consumo eléctrico fantasma:** Evaluación del consumo innecesario de energía y las oportunidades de ahorro potencial.
 - **Apoyo tecnológico a personas con discapacidad visual:** Análisis de acceso y uso de herramientas tecnológicas para personas con discapacidad visual.
 
-🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTg0YTNmNTYtOTljYS00NWI0LTljMmYtOGUxNjVjOGI0ZjAxIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
+🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWNlMzM1MjItOGNlYy00MmQwLWJjNDgtN2EwMTc4NmQ5MzU0IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
 📸 **Capturas de pantalla:**
 ![Consumo Eléctrico](Proyecto_1/Parte_1.png)
