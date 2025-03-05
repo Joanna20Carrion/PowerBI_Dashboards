@@ -18,7 +18,6 @@ Este dashboard está enfocado en dos aspectos:
 
 🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWNlMzM1MjItOGNlYy00MmQwLWJjNDgtN2EwMTc4NmQ5MzU0IiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
-📸 **Capturas de pantalla:**
 ![Consumo Eléctrico](Proyecto_1/Parte_1.png)
 ![Apoyo Tecnológico](Proyecto_1/Parte_2.png)
 
@@ -32,7 +31,6 @@ Este dashboard está diseñado para analizar:
 
 🔗 **Enlace al dashboard:** [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTg0YTNmNTYtOTljYS00NWI0LTljMmYtOGUxNjVjOGI0ZjAxIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9)
 
-📸 **Capturas de pantalla:**
 ![Análisis Financiero 1](Proyecto_2/Parte_1.png)
 ![Análisis Financiero 2](Proyecto_2/Parte_2.png)
 
