@@ -1,5 +1,11 @@
 # 📊 Dashboards de Análisis en Power BI
 
+![Power BI](https://img.shields.io/badge/Power%20BI-FAAF40?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blueviolet)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 ## 📌 Descripción
 Este repositorio contiene dos dashboards interactivos desarrollados en Power BI, cada uno con un enfoque específico:
 
@@ -32,17 +38,20 @@ Este dashboard está diseñado para analizar:
 
 ## 🛠 **Tecnologías Utilizadas**
 
-- **Power BI:** Para la creación y visualización de dashboards interactivos.
-- **Microsoft Excel / SQL:** Para el procesamiento y limpieza de datos antes de la visualización.
-- **DAX y Power Query:** Para la manipulación avanzada de datos dentro de Power BI.
+- ![Power BI](https://img.shields.io/badge/Power%20BI-FAAF40?style=flat&logo=powerbi&logoColor=black) **Power BI:** Para la creación y visualización de dashboards interactivos.  
+- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) **Microsoft Excel / SQL:** Para el procesamiento y limpieza de datos.  
+- ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blueviolet) **DAX y Power Query:** Manipulación avanzada de datos en Power BI.
 
 ---
 
-## Autor
-**Joanna Alexandra Carrión Pérez**: Bachiller de Ingeniería Electrónica. Apasionada por la Ciencia de Datos y la Inteligencia Artificial. [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+## 👤 Autor
+**Joanna Alexandra Carrión Pérez**  
+🎓 Bachiller de Ingeniería Electrónica  
+💡 Apasionada por la Ciencia de Datos y la Inteligencia Artificial  
+🔗 [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
-## Contacto
+## 📩 Contacto
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
 
-## Contribuciones
-📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request.
+## 💡 Contribuciones
+📌 ¡Contribuciones son bienvenidas! Si tienes ideas o mejoras, no dudes en hacer un fork del repositorio y enviar un pull request. 🚀 
