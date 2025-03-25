@@ -38,9 +38,9 @@ Este dashboard está diseñado para analizar:
 
 ## 🛠 **Tecnologías Utilizadas**
 
-- ![Power BI](https://img.shields.io/badge/Power%20BI-FAAF40?style=flat&logo=powerbi&logoColor=black) **Power BI:** Para la creación y visualización de dashboards interactivos.  
-- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) **Microsoft Excel / SQL:** Para el procesamiento y limpieza de datos.  
-- ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blueviolet) **DAX y Power Query:** Manipulación avanzada de datos en Power BI.
+- ![Power BI](https://img.shields.io/badge/Power%20BI-FAAF40?style=flat&logo=powerbi&logoColor=black) **Power BI** → Para la creación y visualización de dashboards interactivos.  
+- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) **Microsoft Excel / SQL** → Para el procesamiento y limpieza de datos.  
+- ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis%20Expressions-blueviolet) **DAX y Power Query** → Manipulación avanzada de datos en Power BI.
 
 ---
 
@@ -48,7 +48,7 @@ Este dashboard está diseñado para analizar:
 **Joanna Alexandra Carrión Pérez**  
 🎓 Bachiller de Ingeniería Electrónica  
 💡 Apasionada por la Ciencia de Datos y la Inteligencia Artificial  
-🔗 [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
 ## 📩 Contacto
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
